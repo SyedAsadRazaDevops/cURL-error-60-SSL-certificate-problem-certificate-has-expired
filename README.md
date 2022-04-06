@@ -31,7 +31,7 @@ server key = A server key is a private encryption/decryption key used by the ser
 
 Intermediate Certificate (CA) = Certificate Authority (CA) is an entity that issues digital certificates which will verify the ownership of a public key by the named subject of the certificate.(myfile.pem)
 
-
-
-https://stackoverflow.com/questions/62107431/curl-error-60-ssl-certificate-problem-certificate-has-expired/71748942#71748942
 Domain Certificate = A domain certificate is an electronic document that is given by the Certification Authority which checks the permission of the applicant to use a specific domain name.(myfile.pem)
+
+
+[LINK] https://stackoverflow.com/questions/62107431/curl-error-60-ssl-certificate-problem-certificate-has-expired/71748942#71748942
