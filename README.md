@@ -22,6 +22,7 @@ To fix the problem, remove the expired root certificate from your domain certifi
 **Recommended:** https://youtu.be/9LpQlKJ1HyE
 
 **follow this youtube link and change or edit the settings below**:
+
 ![x7a42](https://user-images.githubusercontent.com/71556060/161909354-bf26e87f-a9f3-4707-b855-57ee90f61416.png)
 
 **also follow this file formate too**
