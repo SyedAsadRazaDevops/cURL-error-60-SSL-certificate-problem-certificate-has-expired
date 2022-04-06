@@ -13,14 +13,15 @@ cURL error 60: SSL certificate problem: certificate has expired (see https://cur
 To fix the problem, remove the expired root certificate from your domain certificate.
 
 1- Go to https://whatsmychaincert.com
+
 2- Test Your Server
+
 3- If they confirm you you have an expired root certificate, download and use the .crt without this certificate.
 
 # solution-2
-**Recommended:**
-https://youtu.be/9LpQlKJ1HyE
-**follow this youtube link and change or edit the settings below**:
+**Recommended:** https://youtu.be/9LpQlKJ1HyE
 
+**follow this youtube link and change or edit the settings below**:
 ![x7a42](https://user-images.githubusercontent.com/71556060/161909354-bf26e87f-a9f3-4707-b855-57ee90f61416.png)
 
 **also follow this file formate too**
